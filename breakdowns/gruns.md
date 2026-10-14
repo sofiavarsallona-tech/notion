@@ -1,6 +1,6 @@
 # Brand breakdown: Grüns
 
-*Started 14 Oct 2026 · Status: Step 2 done (facts), waiting on Sofi before angles*
+*Started 14 Oct 2026 · Status: Step 3 done (angle locked), next: five hooks*
 
 ## Step 1 · What Sofi already has
 
@@ -35,3 +35,15 @@ Draft with three points: (1) he named the buyer, the company that would acquire 
 - **"Only 9g net carbs"** → **not found.** Stays out unless you check the pack yourself.
 - **"Took 2 years to kill its competitors"** → **no source. Out.**
 - **"Fastest $1B exit in CPG history"** → Substack claim only. **Out.**
+
+## Step 3 · Angle (taken from Sofi's draft)
+
+**Type: The Reversal.** *Everyone thinks Grüns won because of the gummy. It won because Janis built it for the one buyer most founders never think about: the company that would buy him.*
+
+**Tested against the facts:**
+- Belief to break: "the product won". Broken by fact 13: Unilever already owned a gummy vitamin (OLLY) and still paid for Grüns.
+- Proof that he built for the buyer: fact 3 (boards at Summit), facts 6–7 (Sprouts → Target → Walmart is the exact path big companies look for), facts 9–10 (profit and run rate), facts 11–12 (Unilever buys, Janis stays CEO).
+- Points 2 and 3 of the draft (positioning, health halo) become the proof of *how* he made it buyable: a price close to AG1 (fact 15) and a pack full of claims (fact 14).
+- News peg: the deal closed on 1 June 2026.
+
+**Moves for this type:** say the belief out loud in the hook; use OLLY as the "failed first version" in the proof.
