@@ -1,6 +1,6 @@
 # Brand breakdown: Grüns
 
-*Started 14 Oct 2026 · Status: Step 4 done (15 hooks), waiting on Sofi to pick one per angle*
+*Started 14 Oct 2026 · Status: Step 4 done (15 bank hooks), waiting on Sofi to pick one per angle*
 
 ## Step 1 · What Sofi already has
 
@@ -56,27 +56,31 @@ Draft with three points: (1) he named the buyer, the company that would acquire 
 
 **Sofi's pick: all three, as three videos.**
 
-## Step 4 · Five hooks per angle
+## Step 4 · Five hooks per angle (from the Brand Hook Bank)
 
-*Not from the Brand Hook Bank (it isn't installed here). Written in the shapes of the bank examples. Swap in proven hooks once the update is in.*
+### A · Secret Mechanism: built for the buyer
+| # | Grüns hook | Original | Creator | Plays | × median |
+|---|---|---|---|---|---|
+| 1 ⭐ | **Everyone knows Grüns. Almost no one knows who Chad Janis built it for.** *On-screen: "It wasn't built for you."* | Everyone knows Jacquemus, almost no one knows who he built it for. | @thelobbyreport | 140,763 | 10.6× |
+| 2 | In 2023, a Stanford student built a $2-a-day gummy, and Unilever paid a reported $1.2 billion for it. | In 1999, a 53-year-old toy guy built a $5 electric toothbrush and Procter & Gamble paid him nearly half a billion dollars for it. | @guy.raz | 841,519 | 77× |
+| 3 | I'm sure you've already heard that Grüns sold to Unilever for a reported $1.2 billion. But there's another detail in the deal that I think is considerably more impressive. | I'm sure you've already heard that SKIMS is worth $5 billion. But there's another number… | @howfashionreallyworks | 102,936 | 26× |
+| 4 | I'm convinced nobody has ever built a company to be sold better than Chad Janis, and let me tell you why. | I'm convinced that nobody sells identity better than Hailey Bieber, and let me tell you why. | @aishwariagoyal | 404,661 | 8.5× |
+| 5 | This man sold his company for a reported $1.2 billion by taking the most boring thing in your cabinet, a multivitamin, and turning it into candy. | This man is going to become a billionaire by taking the healthiest thing, water, and marketing it as the deadliest thing. | @entrepreneur | 3,057,762 | 3,426× |
 
-### A · Secret Mechanism
-1. ⭐ **The founder of Grüns never asked who his customer was. He asked who was going to buy his company.** *On-screen: "He built it backwards."* (shape: opposite move)
-2. Unilever already owned a gummy vitamin. It still paid a reported $1.2 billion for this one. (number that doesn't fit)
-3. Before he made a single gummy, Chad Janis spent three years watching Dr. Squatch and Brooklinen from inside their board meetings. (biography opening)
-4. Grüns was sold to Unilever less than three years after it launched, and it was planned that way from day one. (strange result → why)
-5. Why would a company that already sells gummy vitamins pay a billion dollars for another one? (question)
+### B · Reversal: it was never the gummy
+| # | Grüns hook | Original | Creator | Plays | × median |
+|---|---|---|---|---|---|
+| 1 ⭐ | **Never start a brand by asking who your customer is.** *On-screen: "Grüns didn't."* | Never use primary colors when building a luxury brand. | @primepulse.inc | 14,938,821 | 90× |
+| 2 | Contrary to popular opinion, Grüns didn't sell for a reported $1.2 billion because of the gummy or its 60 ingredients. | Contrary to popular opinion, Lana Del Rey didn't succeed because she was a nepo baby… | @mirandadoesbrands | 725,119 | 24× |
+| 3 | One of the biggest lies we were ever sold is that Grüns is a vitamin company. | One of the biggest lies we were ever sold is that Hollister is an old California surf brand. | @nickthrowsafit | 1,089,844 | 18.0× |
+| 4 | The real reason Unilever paid a reported $1.2 billion for a gummy is way more fascinating than you think. | The real reason why they use fake made-up brand names in movies… | @treehousedetective | 961,627 | 12.6× |
+| 5 | Grüns doesn't sell vitamins. It sells the feeling of being healthy, and Unilever paid a reported $1.2 billion for it. | SHEIN doesn't predict fashion. It places thousands of tiny bets and only manufactures the winners. | @ericcrackschina | 157,085 | 7.3× |
 
-### B · Reversal
-1. ⭐ **Everyone thinks Grüns sold for $1.2 billion because of the gummy. Unilever already had a gummy.** *On-screen: "It was never the gummy."* (belief out loud → break)
-2. Contrary to popular opinion, Grüns didn't win because it made a better vitamin. (contrary to popular opinion)
-3. The gummy is the least valuable thing Unilever bought from Grüns. (flat claim)
-4. You'd think a billion-dollar vitamin needs a breakthrough formula. Grüns is greens in a gummy. (expectation → reality)
-5. Grüns isn't a vitamin company. It's a company that was built to be sold. (redefinition)
-
-### C · Signal
-1. ⭐ **Why are we paying AG1 prices for something that tastes like candy?** *On-screen: "Health isn't supposed to hurt anymore."* (question, like the nails hook)
-2. We stopped wanting health to hurt, and an $80 bag of gummies just proved it. (small change → big shift)
-3. Nobody buys Grüns for the vitamins. They buy the feeling of being someone who takes them. (what it says about the buyer)
-4. Health used to be a punishment. Now it's a treat, and it costs $80 a month. (before → after)
-5. The most successful supplement of the decade isn't the healthiest one. It's the one that feels the healthiest. (paradox) ⚠️ "of the decade" is opinion; keep it or cut it.
+### C · Signal: health isn't supposed to hurt anymore
+| # | Grüns hook | Original | Creator | Plays | × median |
+|---|---|---|---|---|---|
+| 1 ⭐ | **I've never met a single person who drinks AG1, cold plunges, takes ten supplements, and actually enjoys any of it.** *On-screen: "Health isn't supposed to hurt."* | I've never met a single person that wakes up at 5am, journals, meditates, goes to the gym, cold plunges… | @avni | 3,902,338 | 141× |
+| 2 | Optimization culture is killing us, and a gummy that costs as much as AG1 is the proof. | Optimization culture is killing us. | @shwinnabegobrand | 8,100,379 | 473× |
+| 3 | "No pain, no gain" is dead and health that tastes like candy is in, because looking effortless is the ultimate status symbol. | Quiet luxury is dead and sleep is in because investing in your health is the ultimate status symbol. | @coldestjoel | 786,232 | 42× |
+| 4 | Why does a gummy that tastes like candy cost as much as AG1? | Why is Japanese denim so expensive? | @jansen_garside | 406,014 | 99× |
+| 5 | Is drinking green powder becoming low-status? ⚠️ opinion, no data on AG1 declining | Is getting your nails done becoming low-status? | @mirandadoesbrands | 2,634,501 | 87× |
