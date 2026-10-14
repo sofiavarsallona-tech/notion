@@ -1,6 +1,6 @@
 # Brand breakdown: Grüns
 
-*Started 14 Oct 2026 · Status: Step 3 done (angle locked), next: five hooks*
+*Started 14 Oct 2026 · Status: Step 3, three angles, waiting on Sofi's pick*
 
 ## Step 1 · What Sofi already has
 
@@ -36,14 +36,20 @@ Draft with three points: (1) he named the buyer, the company that would acquire 
 - **"Took 2 years to kill its competitors"** → **no source. Out.**
 - **"Fastest $1B exit in CPG history"** → Substack claim only. **Out.**
 
-## Step 3 · Angle (taken from Sofi's draft)
+## Step 3 · Angle (run through the angle table)
 
-**Type: The Reversal.** *Everyone thinks Grüns won because of the gummy. It won because Janis built it for the one buyer most founders never think about: the company that would buy him.*
+| Ask | Grüns | Fits? |
+|---|---|---|
+| Number that doesn't fit | Unilever already owned a gummy vitamin (OLLY) and still paid a reported $1.2B for Grüns | Strong |
+| Opposite move | Everyone starts from the customer. Janis started from the company that would buy him. And he priced a gummy like AG1 | Strong |
+| Low point | Lazard → Summit → Stanford. No low point | No |
+| What people believe that's wrong | "The gummy won." Few people hold an opinion on Grüns, so the belief is weak | Medium |
+| Fight | No betrayal, lawsuit or rival in the facts | No |
+| What it says about the buyer | We pay AG1 prices for something that tastes like candy: we want health to feel good, not to hurt | Strong (second video) |
+| Hidden person | Nothing in the facts | No |
 
-**Tested against the facts:**
-- Belief to break: "the product won". Broken by fact 13: Unilever already owned a gummy vitamin (OLLY) and still paid for Grüns.
-- Proof that he built for the buyer: fact 3 (boards at Summit), facts 6–7 (Sprouts → Target → Walmart is the exact path big companies look for), facts 9–10 (profit and run rate), facts 11–12 (Unilever buys, Janis stays CEO).
-- Points 2 and 3 of the draft (positioning, health halo) become the proof of *how* he made it buyable: a price close to AG1 (fact 15) and a pack full of claims (fact 14).
-- News peg: the deal closed on 1 June 2026.
+**Angle A · Secret Mechanism (recommended):** *Grüns was built backwards. Its founder didn't start by asking who would buy the gummy. He asked who would buy the company.* Proof: Summit boards (3), Sprouts → Target → Walmart (6–7), profit and run rate (9–10), Unilever buys even though it already had OLLY (11–13). Moves: name the obvious move first ("who's your customer?"); one absurdly small detail.
 
-**Moves for this type:** say the belief out loud in the hook; use OLLY as the "failed first version" in the proof.
+**Angle B · Reversal:** *Everyone thinks Grüns won because of the gummy. Unilever already had a gummy.* Weaker, because few viewers hold the belief to begin with.
+
+**Angle C · Signal:** *A $70 gummy tells you we don't want health to hurt anymore.* Built on points 2 and 3 (price, health halo). Closest to Sofi's audience. Save it for a second video.
