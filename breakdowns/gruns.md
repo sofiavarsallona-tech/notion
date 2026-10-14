@@ -1,6 +1,6 @@
 # Brand breakdown: Grüns
 
-*Started 14 Oct 2026 · Status: Step 3, three angles, waiting on Sofi's pick*
+*Started 14 Oct 2026 · Status: Step 4 done (15 hooks), waiting on Sofi to pick one per angle*
 
 ## Step 1 · What Sofi already has
 
@@ -53,3 +53,30 @@ Draft with three points: (1) he named the buyer, the company that would acquire 
 **Angle B · Reversal:** *Everyone thinks Grüns won because of the gummy. Unilever already had a gummy.* Weaker, because few viewers hold the belief to begin with.
 
 **Angle C · Signal:** *A $70 gummy tells you we don't want health to hurt anymore.* Built on points 2 and 3 (price, health halo). Closest to Sofi's audience. Save it for a second video.
+
+**Sofi's pick: all three, as three videos.**
+
+## Step 4 · Five hooks per angle
+
+*Not from the Brand Hook Bank (it isn't installed here). Written in the shapes of the bank examples. Swap in proven hooks once the update is in.*
+
+### A · Secret Mechanism
+1. ⭐ **The founder of Grüns never asked who his customer was. He asked who was going to buy his company.** *On-screen: "He built it backwards."* (shape: opposite move)
+2. Unilever already owned a gummy vitamin. It still paid a reported $1.2 billion for this one. (number that doesn't fit)
+3. Before he made a single gummy, Chad Janis spent three years watching Dr. Squatch and Brooklinen from inside their board meetings. (biography opening)
+4. Grüns was sold to Unilever less than three years after it launched, and it was planned that way from day one. (strange result → why)
+5. Why would a company that already sells gummy vitamins pay a billion dollars for another one? (question)
+
+### B · Reversal
+1. ⭐ **Everyone thinks Grüns sold for $1.2 billion because of the gummy. Unilever already had a gummy.** *On-screen: "It was never the gummy."* (belief out loud → break)
+2. Contrary to popular opinion, Grüns didn't win because it made a better vitamin. (contrary to popular opinion)
+3. The gummy is the least valuable thing Unilever bought from Grüns. (flat claim)
+4. You'd think a billion-dollar vitamin needs a breakthrough formula. Grüns is greens in a gummy. (expectation → reality)
+5. Grüns isn't a vitamin company. It's a company that was built to be sold. (redefinition)
+
+### C · Signal
+1. ⭐ **Why are we paying AG1 prices for something that tastes like candy?** *On-screen: "Health isn't supposed to hurt anymore."* (question, like the nails hook)
+2. We stopped wanting health to hurt, and an $80 bag of gummies just proved it. (small change → big shift)
+3. Nobody buys Grüns for the vitamins. They buy the feeling of being someone who takes them. (what it says about the buyer)
+4. Health used to be a punishment. Now it's a treat, and it costs $80 a month. (before → after)
+5. The most successful supplement of the decade isn't the healthiest one. It's the one that feels the healthiest. (paradox) ⚠️ "of the decade" is opinion; keep it or cut it.
