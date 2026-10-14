@@ -1,6 +1,6 @@
 # Brand breakdown: Grüns
 
-*Started 14 Oct 2026 · Status: Step 4 done (15 bank hooks), waiting on Sofi to pick one per angle*
+*Started 14 Oct 2026 · Status: Step 5, script A drafted; B and C to do*
 
 ## Step 1 · What Sofi already has
 
@@ -84,3 +84,17 @@ Draft with three points: (1) he named the buyer, the company that would acquire 
 | 3 | "No pain, no gain" is dead and health that tastes like candy is in, because looking effortless is the ultimate status symbol. | Quiet luxury is dead and sleep is in because investing in your health is the ultimate status symbol. | @coldestjoel | 786,232 | 42× |
 | 4 | Why does a gummy that tastes like candy cost as much as AG1? | Why is Japanese denim so expensive? | @jansen_garside | 406,014 | 99× |
 | 5 | Is drinking green powder becoming low-status? ⚠️ opinion, no data on AG1 declining | Is getting your nails done becoming low-status? | @mirandadoesbrands | 2,634,501 | 87× |
+
+## Step 5 · Script A (after Sofi's draft 3, critique applied)
+
+**Hook:** Chad Janis's brand Grüns doesn't make gummies for you. It makes them for the company that's going to buy it.
+*On-screen: "Grüns was built backwards."*
+(Bank: "Hailey Bieber's brand Rhode doesn't make products for the real world. It makes products for the mirror world." @jessicadefino_, 1.4M, 113×)
+
+**Setup:** For years, if we wanted to be healthy, we had two choices. A green powder like AG1: serious, $79 a month, and it tastes like a lawn. Or drugstore gummies: cheap, pleasant, and nobody takes them seriously. Grüns sits right in between: a gummy, at almost AG1's price. But filling that gap would be too easy.
+
+**Turn:** Before Grüns, Janis was an investor at a private equity firm. His job was literally to sit in the board meetings of brands like Dr. Squatch, the soap, and Brooklinen, the sheets, and learn how consumer brands grow, and why they get sold. What he learned: huge companies are terrible at inventing cool new brands. They're too big, too careful. So they wait, and buy the ones that already work. Most of us start with: who am I making this for? He started with: who is going to buy my company?
+
+**Proof:** This year, Unilever answered: a reported $1.2 billion, less than three years after launch. And here's the detail that tells you it was never about the gummy. Unilever already owned a gummy vitamin brand. OLLY. So what did they pay for? The feeling. Read the pack: 60+ ingredients. Whole-food vegetables. Vegan. Adaptogens. Super mushrooms. And all of it, green. Nutrition-wise, that's up for debate. Branding-wise, it's genius. It doesn't need to be the healthiest thing you take. It needs to feel like it. The shopper buys the feeling of health. Unilever buys the shopper.
+
+**Close:** He named the real buyer, and he sold the feeling instead of the formula. And if you're building anything, a brand, a career, a body of work, don't only ask who it's for. Ask where it ends. Then build it backwards.
