@@ -108,3 +108,48 @@ Draft with three points: (1) he named the buyer, the company that would acquire 
 6. This man sold a gummy for a reported $1.2 billion, and he never tried to make the healthiest one. He made the one Unilever would buy. (water, @entrepreneur, 3,426×)
 7. The real reason Unilever paid a reported $1.2 billion for Grüns has nothing to do with your health. (@treehousedetective, 12.6×)
 8. Grüns doesn't sell health. It sells the feeling of health, to the only buyer that mattered. (SHEIN, @ericcrackschina, 7.3×)
+
+## Script A v2: two moves, in the Albina delivery tone
+
+*On-screen: "It wasn't made for your health."*
+
+Chad Janis used to sit in other people's board meetings.
+Dr. Squatch. Brooklinen.
+Watching how brands grow, and who buys them in the end.
+
+Then he made a gummy.
+
+This year, Unilever bought it. For a reported $1.2 billion.
+
+And here's the thing.
+That gummy was never made for your health. It was made for Unilever.
+
+What he learned in those rooms was simple. Big companies are terrible at inventing. Too big. Too careful. So they wait for someone else to prove a brand works, and then they buy it.
+
+Most of us start with: who am I making this for?
+He started with: who is going to buy my company?
+
+And shocker, shocker.
+Unilever already owned a gummy vitamin brand. OLLY.
+So they weren't paying for the gummy.
+
+But that's not all. Here's the second move.
+
+If you wanted your greens, you had two doors.
+A powder like AG1. Serious. $79 a month. Tastes like a lawn.
+Or gummies from the drugstore. Cheap. Pleasant. Nobody takes them seriously.
+
+Grüns made a candy, and priced it like AG1.
+Not like the gummies next to it. Like the medicine.
+
+And here's the twist. The price is what makes it feel serious.
+The pack does the rest. Sixty-plus ingredients. Whole-food vegetables. Adaptogens. Super mushrooms. All of it, green.
+
+Is it healthier? Debatable.
+Does it feel healthier? Completely.
+
+The shopper buys the feeling of health. Unilever buys the shopper.
+
+Most of us build something and hope the right person finds it. He picked the person first.
+
+And that's the part they don't print on the pack.
