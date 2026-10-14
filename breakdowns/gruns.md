@@ -98,3 +98,13 @@ Draft with three points: (1) he named the buyer, the company that would acquire 
 **Proof:** This year, Unilever answered: a reported $1.2 billion, less than three years after launch. And here's the detail that tells you it was never about the gummy. Unilever already owned a gummy vitamin brand. OLLY. So what did they pay for? The feeling. Read the pack: 60+ ingredients. Whole-food vegetables. Vegan. Adaptogens. Super mushrooms. And all of it, green. Nutrition-wise, that's up for debate. Branding-wise, it's genius. It doesn't need to be the healthiest thing you take. It needs to feel like it. The shopper buys the feeling of health. Unilever buys the shopper.
 
 **Close:** He named the real buyer, and he sold the feeling instead of the formula. And if you're building anything, a brand, a career, a body of work, don't only ask who it's for. Ask where it ends. Then build it backwards.
+
+### Blended hooks: "not built for health" + "built backwards"
+1. ⭐ Grüns wasn't made for your health. It was made for the company that was going to buy it. (Rhode, @jessicadefino_, 113×)
+2. One of the fastest-growing supplements in America wasn't built to make you healthy. It was built backwards. (Sofi's own line, made safe; "fast-growing" is Unilever's wording)
+3. Contrary to popular opinion, Grüns didn't win because it's the healthiest supplement. It won because it was built backwards. (Lana, @mirandadoesbrands, 24×)
+4. You've heard Grüns sold for a reported $1.2 billion. What you haven't heard is that it was never built to be the healthiest gummy. It was built to be sold. (SKIMS, @howfashionreallyworks, 26×)
+5. One of the biggest lies we were ever sold is that Grüns is a health company. (Hollister, @nickthrowsafit, 18×)
+6. This man sold a gummy for a reported $1.2 billion, and he never tried to make the healthiest one. He made the one Unilever would buy. (water, @entrepreneur, 3,426×)
+7. The real reason Unilever paid a reported $1.2 billion for Grüns has nothing to do with your health. (@treehousedetective, 12.6×)
+8. Grüns doesn't sell health. It sells the feeling of health, to the only buyer that mattered. (SHEIN, @ericcrackschina, 7.3×)
